@@ -23,7 +23,7 @@ subtitle: University of Oxford
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Here you find course materials, notes and data for the Causal Inference course at the Department of Politics & IR of the University of Oxford in Hilary 2022.
-baseurl: "/CI22" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
